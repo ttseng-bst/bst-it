@@ -1,0 +1,6 @@
+CONFIDENTIAL - DLP TEST SAMPLE - NOT REAL DATA
+Customer PII export
+Name: John Q. Sample
+Credit Card: 4111111234567892
+SSN: 123-45-6789
+Email: john.sample@example.com
